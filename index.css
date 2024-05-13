@@ -1,0 +1,22 @@
+.select{
+    display: flex;
+    align-items: center;
+}
+.box{
+    width:1300px;
+    height:100px;
+    padding-left: 20px;
+    background-color: white;
+    margin-left: 50px;
+    box-shadow: 3px 1px 3px 3px rgb(209,214, 214);
+
+}
+body{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+}
+h2{
+    font-weight: 900;
+}
